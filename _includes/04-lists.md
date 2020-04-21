@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* #### Favourite books
+  * How to Measure Your Life
+  * Principles
+  * Properity paradox
+  * You
+  * Why Nations Fail
+* #### Career Interests
+  * Machine Learning
+  * Software Development
